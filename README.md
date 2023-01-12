@@ -8,8 +8,4 @@ I'm also a classical musician @ [omaha symphony](https://omahasymphony.org) and 
 
 Most of my commits are on [gitlab](https://www.gitlab.com), deal with it.
 
-[LinkedIn 💼](https://www.linkedin.com/in/spencer-jones-omaha/)
-
-[Twitter 🐦](https://twitter.com/mitschlagel)
-
-[Website 🌍](https://www.mitschlagel.github.io)
+Ping me on [linkedin](https://www.linkedin.com/in/spencer-jones-omaha/)
