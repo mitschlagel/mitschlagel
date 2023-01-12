@@ -6,6 +6,8 @@ I'm passionate about iOS and Swift, React Native, and delighting customers (beca
 
 In my spare time I'm a classical musician @ [omaha symphony](https://omahasymphony.org) and adjunct professor @ [unomaha](https://www.unomaha.edu)
 
+Most of my commits are on [gitlab](https://www.gitlab.com), deal with it.
+
 [LinkedIn 💼](https://www.linkedin.com/in/spencer-jones-omaha/)
 
 [Twitter 🐦](https://twitter.com/mitschlagel)
