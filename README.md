@@ -1,16 +1,13 @@
-### Hi there 👋
+### mit schlagel == "with sticks"
 
-<!--
-**mitschlagel/mitschlagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Spencer, a software engineer currently working as a mobile dev 📱 @ [fnbo](https://www.fnbo.com) 🏦💰
 
-Here are some ideas to get you started:
+I'm passionate about iOS and Swift, React Native, and delighting customers (because I am one!).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time I'm a classical musician @ [omaha symphony](https://omahasymphony.org) and adjunct professor @ [unomaha](https://www.unomaha.edu)
+
+[LinkedIn 💼](https://www.linkedin.com/in/spencer-jones-omaha/)
+
+[Twitter 🐦](https://twitter.com/mitschlagel)
+
+[Website 🌍](https://www.mitschlagel.github.io)
