@@ -1,6 +1,6 @@
 ### mit schlagel == "with sticks" 🥁
 
-I'm Spencer, a software engineer currently working as a mobile dev @ [fnbo](https://www.fnbo.com)
+I'm Spencer, a software engineer currently working as a mobile ui dev @ [fnbo](https://www.fnbo.com)
 
 I'm passionate about iOS and Swift, React Native, and delighting customers (because I am one!).
 
