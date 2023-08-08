@@ -4,7 +4,7 @@ I'm Spencer, a software engineer currently working as a mobile ui dev @ [fnbo](h
 
 I'm passionate about building simple and delightful mobile applications that deliver a memorable user experience
 
-I work mostly with native iOS development, but dabble in React Native.
+I work mostly in native iOS development, but I'm dabbling in React Native.
 
 I'm also a freelance orchesta musician, drummer, and adjunct professor @ [unomaha](https://www.unomaha.edu)
 
