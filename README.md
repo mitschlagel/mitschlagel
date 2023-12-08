@@ -2,7 +2,7 @@
 
 I'm Spencer, a software engineer currently working as a mobile developer
 
-I'm passionate about building simple and delightful features and applications that deliver a memorable user experience
+I'm passionate about building simple features and applications that deliver a memorable user experience
 
 My day job is native iOS development, but I'm dabbling in React Native
 
