@@ -1,6 +1,6 @@
 ### mit schlagel == "with sticks" 🥁
 
-I'm Spencer, a software engineer currently working as an iOS developer. I like building things people enjoy.
+Hi, I'm Spencer, a software engineer employed as an iOS developer. I also like React, and am learning React Native. I like building things people enjoy.
 
 I'm also a freelance orchesta musician, drummer, and adjunct professor @ [unomaha](https://www.unomaha.edu)
 
