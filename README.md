@@ -1,10 +1,6 @@
 ### mit schlagel == "with sticks" 🥁
 
-I'm Spencer, a software engineer currently working as a mobile developer
-
-I'm passionate about building simple features and applications that deliver a memorable user experience
-
-My day job is native iOS development, but I'm dabbling in React Native
+I'm Spencer, a software engineer currently working as an iOS developer. I like building things people enjoy.
 
 I'm also a freelance orchesta musician, drummer, and adjunct professor @ [unomaha](https://www.unomaha.edu)
 
