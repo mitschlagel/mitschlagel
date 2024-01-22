@@ -2,7 +2,8 @@
 
 <p>
 Hi, I'm Spencer, a software engineer currently employed as an iOS developer. I like building things people enjoy.<br />
-I also like React, and am learning React Native. Offline, I'm a professional drummer and music professor. 
+I'm most comfortable with native iOS dev, React and React Native, and I'm learning GraphQL and AWS.
+Offline, I'm a professional drummer and music professor. 
 </p>
 
 
