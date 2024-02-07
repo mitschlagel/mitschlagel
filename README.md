@@ -10,3 +10,7 @@ I'm also a professional drummer, music professor, soccer fanatic, and German stu
 Most of my commits are on [gitlab](https://www.gitlab.com), sorry.
 
 Ping me on [linkedin](https://www.linkedin.com/in/spencer-jones-omaha/).
+
+Be jealous of me on leetcode
+
+![mitschlagel's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sjonesdrums&theme=dark)
