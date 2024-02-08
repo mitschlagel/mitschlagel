@@ -13,4 +13,4 @@ Ping me on [linkedin](https://www.linkedin.com/in/spencer-jones-omaha/).
 
 Be jealous of me on leetcode
 
-![mitschlagel's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sjonesdrums&theme=dark)
+![mitschlagel's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mitschlagel&theme=dark)
