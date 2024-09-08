@@ -2,7 +2,7 @@
 
 **iOS Engineer | Modernizing apps with SwiftUI**
 
-Expert in leveraging SwiftUI to build modern, efficient iOS apps. Skilled in revitalizing legacy codebases with clean, declarative architecture. Proficient in React, React Native, and RESTful APIs. MBA candidate at University of Nebraska-Omaha exploring the business side of IT and product management. 
+Expert in leveraging SwiftUI to build modern, efficient iOS apps. Skilled in revitalizing legacy codebases with clean, declarative architecture. Proficient in React, React Native, and RESTful APIs. MBA candidate at University of Nebraska-Omaha exploring IT leadership and product management. 
 
 **When I'm not building things:**
 
