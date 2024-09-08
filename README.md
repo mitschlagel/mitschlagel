@@ -1,12 +1,13 @@
 ### mit schlagel == "with sticks" 🥁
 
-<p>
-Hi, I'm Spencer, a software engineer currently employed as an iOS developer. I like building things people enjoy.<br />
-I'm most comfortable with native iOS codebases, React and React Native, and I'm learning GraphQL and AWS.<br />
-I'm also a professional drummer, music professor, soccer fanatic, runner, and cyclist. 
-</p>
+**iOS Engineer | Modernizing apps with SwiftUI**
 
+Expert in leveraging SwiftUI to build modern, efficient iOS apps. Skilled in revitalizing legacy codebases with clean, declarative architecture. Proficient in React, React Native, and RESTful APIs. MBA candidate at University of Nebraska-Omaha exploring the business side of IT and product management. 
 
-Most of my commits are on [gitlab](https://www.gitlab.com), sorry.
+**When I'm not building things:**
 
-If you're not a bot DM me on [linkedin](https://www.linkedin.com/in/spencer-jones-omaha/).
+* I'm a professional drummer.
+* I read a lot.
+* I'll watch any soccer featuring American internationals.
+* I cheer for Oklahoma State University football and Creighton basketball.
+* I bike as many dirt and gravel roads as I can find.
