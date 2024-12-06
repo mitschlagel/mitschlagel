@@ -1,6 +1,6 @@
 ### mit schlagel == "with sticks" 🥁
 
-** UI Engineer | iOS et al. | React Native | React **
+**UI Engineer | iOS et al. | React Native | React**
 
 Expert in leveraging SwiftUI to build modern, efficient iOS apps. Skilled in revitalizing legacy codebases with clean, declarative architecture. Dangerous in React, React Native, and RESTful APIs. MBA candidate at University of Nebraska-Omaha exploring engineering and product management. 
 
