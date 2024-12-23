@@ -9,6 +9,6 @@ Former Xanga customization guru. Watched too much Silicon Valley during the pand
 * I'm a professional drummer.
 * I read a lot.
 * I ride bikes and run.
-* I like soccer and Creighton basketball.
+* I like soccer and college basketball.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitschlagel&layout=compact&langs_count=8)
