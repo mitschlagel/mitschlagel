@@ -1,8 +1,8 @@
 ### mit schlagel == "with sticks" 🥁
 
-### Software Engineer | Mobile UI/UX 
+### Software Engineer | UI/UX Junky
 
-Former Xanga customization guru. Watched too much Silicon Valley during the pandemic and now here we are. Expert in leveraging SwiftUI to build modern, efficient iOS apps. Skilled in revitalizing legacy codebases with clean, declarative architecture. Dangerous in React, React Native, and RESTful APIs. MBA student exploring engineering leadership and product management. 
+Former Xanga customization guru. Watched too much Silicon Valley during the pandemic and now here we are. Mostly iOS. Dangerous in React, React Native, and RESTful APIs. MBA student exploring engineering leadership and product management. 
 
 **When I'm not building things:**
 
