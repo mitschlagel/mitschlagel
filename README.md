@@ -11,4 +11,4 @@ Former Xanga customization guru. Watched too much Silicon Valley during the pand
 * I ride bikes and run.
 * I like soccer and college basketball.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitschlagel&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitschlagel&layout=donut&size_weight=0.5&count_weight=0.8)](https://github.com/anuraghazra/github-readme-stats)
