@@ -1,15 +1,13 @@
-### mit schlagel == "with sticks" 🥁
+📱mostly iOS
 
-mostly iOS
+💼banking, fintech
 
-banking, fintech
+🏡dad
 
-dad
+🎶semi-retired pro musician
 
-semi-retired pro musician
+🥁drummer
 
-drummer
+🚴avid cyclist
 
-avid cyclist
-
-soccer nerd
+⚽️soccer nerd
