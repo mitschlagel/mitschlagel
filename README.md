@@ -2,8 +2,6 @@
 
 💼banking, fintech
 
-🏡dad
-
 🎶semi-retired pro musician
 
 🥁drummer
