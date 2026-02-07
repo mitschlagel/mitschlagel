@@ -7,7 +7,7 @@
 - 🚴 cyclist
 - ⚽ soccer nerd
 
-### 👨‍💻 apps I have built / contributed to:
+### 👨‍💻 some apps I have built / contributed to:
 - [fnbo](https://apps.apple.com/us/app/fnbo/id687944807&ved=2ahUKEwjDrpLu_8eSAxXilYkEHZuSDuAQFnoECB0QAQ&usg=AOvVaw1Qv-H5QJyi8FLtQZWdsGgN)
 - [fnbo direct](https://apps.apple.com/us/app/fnbo-direct/id1238399757&ved=2ahUKEwivmcOngciSAxUlkIkEHV54DKgQFnoECBcQAQ&usg=AOvVaw2OP2rfZA5ANwaqLXP3yby5)
 - [wcb](https://apps.apple.com/us/app/washington-county-bank/id714132941&ved=2ahUKEwiwpOe7gciSAxWQl4kEHd-ZBTQQFnoECBwQAQ&usg=AOvVaw0hXyrXx9aoelmPVdCxWE73)
