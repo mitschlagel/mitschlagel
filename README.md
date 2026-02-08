@@ -9,11 +9,11 @@
 - ⚽ soccer nerd
 
 ### 👨‍💻 some apps I've contributed to:
-- [fnbo](https://apps.apple.com/us/app/fnbo/id687944807)
-- [fnbo direct](https://apps.apple.com/us/app/fnbo-direct/id1238399757)
-- [wcb](https://apps.apple.com/us/app/washington-county-bank/id714132941)
-- [scheels visa card](https://apps.apple.com/us/app/scheels-visa-card/id844282103)
+- [FNBO](https://apps.apple.com/us/app/fnbo/id687944807)
+- [FNBO Direct](https://apps.apple.com/us/app/fnbo-direct/id1238399757)
+- [WCB](https://apps.apple.com/us/app/washington-county-bank/id714132941)
+- [Scheels Visa Card](https://apps.apple.com/us/app/scheels-visa-card/id844282103)
 - [card.fnbo.com](https://card.fnbo.com)
-- [tiletally](https://apps.apple.com/us/app/tiletally/id6478087140)
+- [TileTally](https://apps.apple.com/us/app/tiletally/id6478087140)
 
 
