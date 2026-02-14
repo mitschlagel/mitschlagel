@@ -1,6 +1,7 @@
 ### 👋 about me
 
-- 📱 iOS, react native, react, restful apis
+- 📱 iOS, react native, react
+- ⚙️ restful apis (vibe-coded ones, too)
 - 💰 banking / fintech
 - 📈 MBA candidate
 - 🎵 semi-retired orchestra musician
