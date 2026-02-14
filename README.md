@@ -1,13 +1,13 @@
 ### 👋 about me
 
-- 📱 iOS, react native, react
-- ⚙️ restful apis (vibe-coded ones, too)
-- 💰 banking / fintech
-- 📈 MBA candidate
-- 🎵 semi-retired orchestra musician
-- 🥁 drummer
-- 🚴 cyclist
-- ⚽ soccer nerd
+📱 iOS, react native, react <br>
+⚙️ backend services (enterprise & vibe-coded)
+💰 banking / fintech<br>
+📈 MBA candidate<br>
+🎵 semi-retired orchestra musician<br>
+🥁 drummer<br>
+🚴 cyclist<br>
+⚽ soccer nerd
 
 ### 👨‍💻 some apps I've contributed to:
 - [FNBO](https://apps.apple.com/us/app/fnbo/id687944807)
