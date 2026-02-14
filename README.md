@@ -1,7 +1,7 @@
 ### 👋 about me
 
 📱 iOS, react native, react <br>
-⚙️ backend services (enterprise & vibe-coded)
+⚙️ backend services (enterprise & vibe-coded)<br>
 💰 banking / fintech<br>
 📈 MBA candidate<br>
 🎵 semi-retired orchestra musician<br>
