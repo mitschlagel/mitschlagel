@@ -2,7 +2,7 @@
 
 📱 iOS, react native, react <br>
 ⚙️ RESTful backend services <br>
-💰 banking / fintech<br>
+💼 banking / fintech<br>
 📈 MBA candidate<br>
 🎵 semi-retired orchestra musician<br>
 🥁 drummer<br>
