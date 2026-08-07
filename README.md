@@ -13,6 +13,6 @@
 - [WCB](https://apps.apple.com/us/app/washington-county-bank/id714132941)
 - [Scheels Visa Card](https://apps.apple.com/us/app/scheels-visa-card/id844282103)
 - [card.fnbo.com](https://card.fnbo.com)
-- [TileTally](https://apps.apple.com/us/app/tiletally/id6478087140)
+- [Tile Tally](https://apps.apple.com/us/app/tiletally/id6478087140)
 
 
