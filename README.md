@@ -1,12 +1,10 @@
-### about me
-
-👨‍💻 mostly iOS, sometimes react, react native, spring boot<br>
+👨‍💻 mostly iOS, but also react, react native, spring boot<br>
 
 🥁 drummer<br>
 🚴 cyclist<br>
 ⚽ soccer nerd
 
-### some apps I've contributed to:
+🚢 some apps I've contributed to:
 - [Branch: A Better Payday](https://apps.apple.com/us/app/branch-a-better-payday/id1047978697)
 - [Uber Pro Card](https://apps.apple.com/us/app/uber-pro-card/id1615818085)
 - [Instacart Shopper Rewards](https://apps.apple.com/us/app/instacart-shopper-rewards/id6746809137)
