@@ -1,5 +1,7 @@
 ### about me
 
+📱 mostly iOS<br>
+💻 sometimes react, react native, spring boot<br>
 🥁 drummer<br>
 🚴 cyclist<br>
 ⚽ soccer nerd
